@@ -14,3 +14,6 @@ Extensive contribution guidelines are available in the repository at
 ``docs/internals/contributing/``, or online at:
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
+
+
+---
